@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDivider">#ECECEC</color>
+    <color name="saddlebrown">#8b4513</color>
+    <color name="darkblue">#00008b</color>
+    <color name="skin">#FFE4CA</color>
+    <color name="confirm">#5CADAD</color>
+    <color name="danger">#FF8F59</color>
+    <color name="realydanger">#F55502</color>
+</resources>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">MAP_GameFi</string>
+    <string name="title_activity_maps">YORK GAMEFI APP</string>
+    <string name="title_activity_profile">profile</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="marker">marker</string>
+    <string name="owner">這地標還未被佔領</string>
+    <string name="site">地標位置</string>
+    <string name="record">該地標沒有紀錄</string>
+    <string name="protect">防禦</string>
+    <string name="occupy">佔領</string>
+    <string name="NFT_action">NFT</string>
+
+    <string name="menu_home">佔領地標</string>
+    <string name="menu_map">地圖</string>
+    <string name="menu_store">購買道具</string>
+    <string name="menu_token">剩餘代幣</string>
+    <string name="menu_tools">擁有道具</string>
+    <string name="menu_slideshow">遊戲規則</string>
+    <string name="menu_logout">切換帳號</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="account">account</string>
+    <string name="password">password</string>
+    <string name="login">登入</string>
+
+    <string name="job">角色：</string>
+    <string name="group">陣營：</string>
+    <string name="pvk">private key</string>
+    <string-array name="jobs">
+        <item>法師</item>
+        <item>劍士</item>
+        <item>騎士</item>
+        <item>狂戰士</item>
+        <item>射手</item>
+        <item>遊俠</item>
+        <item>治癒精靈</item>
+        <item>拳鬥士</item>
+    </string-array>
+    <string-array name="groups">
+        <item>藍色</item>
+        <item>綠色</item>
+    </string-array>
+    <string name="register">註冊</string>
+
+    <string name="buy">購買</string>
+    <string name="attack_tools">攻擊道具</string>
+    <string name="protected_tools">防禦道具</string>
+    <string name="close_tools">關閉</string>
+    <string name="rule">在廣大的世界存在兩個古老的組織，這兩個陣營彼此互相爭奪領地，看誰是世界的統治者。
+遊戲有兩個陣營，分別是藍色陣營和綠色陣營，每個玩家在創建角色時可以選擇要加入哪一個陣營，藍色陣營代表的是永恆，綠色陣營代表的是活力，同時，玩家可以選擇角色的職業，有魔法師、治療精靈、鬥士、劍士、弓箭手等。當註冊完成，玩家需要輸入錢包私鑰，用來和區塊鏈進行溝通，錢包內必須先存入ETH，因為mint NFT、攻擊和防守等動作都需要操作智慧合約，因此至少需要少許的手續費才能完成這些動作。
+遊戲在進行的過程中會有兩種身分，分別是攻擊方和防守方，兩者最大的差別在於防守方擁有地標，而攻擊者則是要拿下地標。透過點選地標的詳細資訊可以知道這個地標是屬於哪一個陣營，如果是相同陣營，玩家可以選擇投入ETH來防禦地標；相反，如果是不同陣營，玩家可以投入ETH來成為地標擁有者。當玩家將一個地標打下後，他可以獲得地標上所有的ETH和NFT當作獎勵，但會扣除部分手續費。不論攻擊或防禦都會損失代幣，這些代幣都會存入合約當中，隨著時間增加，地標價值越高，因此會越容易被打下，加速地標國王的更替。</string>
+</resources>
