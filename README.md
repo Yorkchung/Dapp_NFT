@@ -29,6 +29,3 @@
 
 ![image](https://user-images.githubusercontent.com/31153913/194749543-2f2dff0c-4802-4dcf-a3db-7d44487b9b5a.png)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4
-" target="_blank"><img src="https://youtu.be/BBthpy75rSU" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
