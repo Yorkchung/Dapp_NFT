@@ -15,7 +15,8 @@
 5. Remix
   - develope a smart contract
   - But I have build one inside it, all you have to do is upload the contract to ganache.
-  
+  - You can find smart contract from [here](
+  https://github.com/Yorkchung/GameFi_Contract).
 ### How to build it:
 1. put your google api key(a small amount of access is free) in adndroidmanifest.xml
 - ![image](https://user-images.githubusercontent.com/31153913/194749279-fe050288-609a-4ba7-874e-d9f59ee0457f.png)
