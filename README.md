@@ -6,6 +6,7 @@
 1. Android Studio
 2. API server
   - I use node.js to build a server, but you can choose what you want to build. 
+  - You can find api server from [here](https://github.com/Yorkchung/gamefi_api).
 3. Database
   - I use mongoDB to build with node.js, but you can use your database, it doesn't matter.
   - The DB is used for build a user account.
